@@ -1,6 +1,5 @@
 # 🧾 Invoice Management System in PHP with Source Code
 
-![Project Image](link-to-your-image.png) <!-- Add a relevant image URL here -->
 
 A fully functional PHP-based Invoice Management System with MySQL database support. This project is designed for second-year IT students working on college projects. It includes essential features for managing invoices, product details, customers, and more.
 
@@ -51,5 +50,5 @@ A fully functional PHP-based Invoice Management System with MySQL database suppo
 
 ## 📄 License
 
-This project is under [LICENSE TYPE] license. <!-- Add the specific license type -->
+This project is under [MIT] license. 
 
